@@ -1,0 +1,4 @@
+graft src/studiocils
+graft docs
+include *.rst
+global-exclude *.pyc

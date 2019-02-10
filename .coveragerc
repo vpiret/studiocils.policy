@@ -1,0 +1,6 @@
+[report]
+include =
+    src/studiocils/*
+omit =
+    */test*
+    */upgrades/*
