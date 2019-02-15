@@ -2,6 +2,9 @@
 <metadata>
   <version>1000</version>
   <dependencies>
+    <dependency>profile-studiocils.core:default</dependency>
     <dependency>profile-studiocils.theme:default</dependency>
+    <dependency>profile-plone.app.mosaic:default</dependency>
+    <dependency>profile-collective.behavior.banner:default</dependency>
   </dependencies>
 </metadata>

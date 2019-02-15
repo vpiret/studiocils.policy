@@ -44,7 +44,10 @@ setup(
         'Products.GenericSetup>=1.8.2',
         'setuptools',
         'z3c.jbot',
+        'studiocils.core',
         'studiocils.theme',
+        'plone.app.mosaic',
+        'collective.behavior.banner',
     ],
     extras_require={
         'test': [
